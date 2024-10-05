@@ -147,9 +147,6 @@ launchctl load ~/Library/LaunchAgents/de.bernhard-baehr.sleepwatcher-20compatibi
   /usr/bin/python3 ~/Desktop/hello_fahim.py
   ```
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
